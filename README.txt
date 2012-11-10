@@ -20,3 +20,4 @@ Files:
 4) Graph_stl.h :  contains implementation of both Edmond-Karp and FIFO push-relabel methods
 5) edmond_karp.cpp ,push_relabel.cpp : 	main execution file
 6) flower.jpg, empire_low.jpg : Sample image files
+7) Thesis.docx - Survey and project details
