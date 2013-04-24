@@ -1,5 +1,5 @@
 Vaibhav Devekar
-vaibhav.devekar@gmail.com
+devekar.1@osu.edu
 
 Project: Implementation of Network Flow Algorithms in Image Segmentation
 
